@@ -1,0 +1,6 @@
+{
+  "name": "Residencial Lumina Horizon - Venda de Apartamentos",
+  "description": "Landing page de alta conversão para venda de apartamentos de alto padrão no Residencial Lumina Horizon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
